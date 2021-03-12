@@ -44,3 +44,7 @@ You can download the dataset file ('CarPrice_Assignment.csv' file)
 1.  **Python Notebook:** One Python notebook with the whole linear model, predictions, and evaluation.
 2.  **Subjective Questions PDF:** Apart from the Python notebook, you also need to answer some subjective questions related to linear regression which can be downloaded from the file below. Answer these questions and submit it as a PDF.  
     **Note:** There are some questions in the subjective questions doc that you might not be familiar with. So you're expected to research these questions and give an appropriate answer in order to expand your learnings of this topic.
+
+## Jupyter Notebook Viewer
+If you are unable to view or load the jupyter IPython notebook via Github, please click on this [link](https://nbviewer.jupyter.org/github/ChaitanyaC22/Car-Price-Prediction-Model-for-an-automobile-consulting-company/blob/chai_main/Car_Price_Prediction_Model.ipynb).
+Thank you!
